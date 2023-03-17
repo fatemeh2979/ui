@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "private": true,
   "homepage": ".",
-  "proxy": "http://localhost:80",
+  "proxy": "http://nicelearning.ir",
   "dependencies": {
     "@material-ui/core": "^4.11.4",
     "@material-ui/icons": "^4.9.1",
